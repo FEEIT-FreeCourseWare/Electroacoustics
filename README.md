@@ -1,5 +1,4 @@
 # Electroacoustics
-November 2016
 
 These are the materials from the course Electroacoustics, taught in the 5th semester at the undergraduate level at the [Faculty of Electrical Engineering and Information Technologies](http://feit.ukim.edu.mk), [Ss Cyril and Methodius University of Skopje](http://ukim.edu.mk/), Macedonia.
 
